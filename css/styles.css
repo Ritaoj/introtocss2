@@ -1,0 +1,69 @@
+.head2{
+    padding: 3rem;
+    border: 2rem solid red;
+    margin: 3rem;
+    outline: 1rem solid green;
+}
+body{
+    font-family: cursive;
+}
+.parent1{
+    color: aqua;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.parent2{
+    color: blue;
+    font-size: 3rem;
+    font-weight: 500;
+}
+.child3{
+    color: blueviolet;
+}
+.items{
+    border: 1rem solid green;
+    width: 15rem;
+    padding: 1rem;
+    text-align: center;
+    margin: 10rem 10rem 10rem 10rem;
+}
+.item1, .item2, .item3{
+    display: inline-block;
+    padding-top: 4rem;
+    width: 7rem;
+    height: 3rem;
+}
+
+h1{
+    padding: 1rem;
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+    font-style: oblique;
+}
+h2{
+    font-size: 1.5rem;
+    color: rgb(135, 141, 250);
+}
+h3,h4{
+    color: gray;
+    font-size: 1rem;
+}
+p{
+    font-size: 0.8rem;
+}
+.Pasta{
+    padding: 1rem;
+    font-size: 0.8rem;
+    border: 0.1rem solid rgb(0, 221, 255);
+    display: inline-block;
+    margin: 0.5rem 1rem 1rem 0rem;
+}
+.Steps,.Items{
+    font-style: italic;
+}
+button{
+    color: brown;
+    padding-top: 0.2rem;
+    width: 9rem;
+}
